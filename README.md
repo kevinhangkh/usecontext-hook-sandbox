@@ -1,3 +1,7 @@
+# usecontext-hook-sandbox
+
+This is a project where I was playing around with the useContext hook
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
